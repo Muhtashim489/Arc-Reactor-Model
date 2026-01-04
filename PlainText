@@ -1,0 +1,12 @@
+├── Parts/
+│   ├── Coil Spacer.SLDPRT
+│   ├── Diffusion Ring.SLDPRT
+│   ├── Inner Cover.SLDPRT
+│   ├── Nut.SLDPRT
+│   ├── Protector.SLDPRT
+│   ├── Spinner.SLDPRT
+│   ├── Supporter.SLDPRT
+│   └── Upper Cover.SLDPRT
+├── Assembly/
+│   └── MK Arc Reactor.SLDASM
+└── README.md
